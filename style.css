@@ -9,9 +9,38 @@
   height: 400px;
   background-image: url(img/mv.jpg);
   background-size: cover;
-  background-position: bottomg;
+  background-position: bottom;
 }
 
 .heading {
   padding: 20px;
+}
+
+main {
+  width: 840px;
+  margin:50px auto;
+}
+
+.survice1 {
+  padding-bottom: 30px;
+  margin-bottom: 30px;
+  border-bottom:1px solid #000;
+}
+
+.survice2 {
+  padding-bottom: 30px;
+  margin-bottom: 30px;
+  border-bottom:1px solid #000;
+}
+
+.survice3 {
+  padding-bottom: 30px;
+  margin-bottom: 30px;
+  border-bottom:1px solid #000;
+}
+
+.survice4 {
+  padding-bottom: 30px;
+  margin-bottom: 30px;
+  border-bottom:1px solid #000;
 }
